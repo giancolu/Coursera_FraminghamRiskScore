@@ -8,8 +8,8 @@ shinyUI(fluidPage(
         profile for use in primary care based on the Framingham Heart Study")),
         
         headerPanel(h4("It calculates the 10 year risk of developing all cardiovascular diseases 
-                        (coronary, cerebrovascular, or peripheral arterial disease 
-                        or heart failure)")),
+                        and of its constituents (coronary, cerebrovascular, or peripheral arterial 
+                        disease or heart failure)")),
         
         headerPanel(h5("D'Agostino RB, et al. Circulation 2008;117:743-753")),
 
