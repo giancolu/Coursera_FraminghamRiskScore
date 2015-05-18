@@ -1,4 +1,4 @@
-##General cardiovascular risk profile \nfor use in primary care
+##General cardiovascular risk profile for use in primary care
 ###The Framingham Heart Study
 
 D'Agostino RB, et al. Circulation 2008;117:743-753
