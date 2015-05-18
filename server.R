@@ -1,3 +1,4 @@
+#server.R
 library(shiny)
 framingham <- function(sex,age,TC,HDL,HTN,SBP,smoke,diabetes){ 
         if (sex == "male") {

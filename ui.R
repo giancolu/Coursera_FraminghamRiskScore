@@ -1,5 +1,4 @@
 #ui.r
-setwd("~/Copy/Data_presentation/Assignment")
 library(shiny)
 shinyUI(fluidPage(
         
@@ -8,7 +7,7 @@ shinyUI(fluidPage(
         headerPanel(h4("This is a calculator for the evaluation of the general cardiovascular risk 
         profile for use in primary care based on the Framingham Heart Study")),
         
-        headerPanel(h4("It calculates the 10 year risk to develop a cardiovascular event 
+        headerPanel(h4("It calculates the 10 year risk of developing all cardiovascular diseases 
                         (coronary, cerebrovascular, or peripheral arterial disease 
                         or heart failure)")),
         
